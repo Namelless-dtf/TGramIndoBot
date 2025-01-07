@@ -9,11 +9,11 @@
   },
   "bot": {
     "token_comment": "Your authorization token from the @botfather. Is string and quoted.",
-    "TOKEN": "",
+    "TOKEN": "7577803942:AAEr8U4aX_VLmOZF-99FOoeJwpOy9xWhZJc",
     "id_comment": "Bots ID number. It is numbers before colon in bots token. Is number and not quoted.",
-    "ID": ,
+    "ID": -1125471774 ,
     "uname_comment": "Bots username - without @",
-    "UNAME": ""
+    "UNAME": "pluto_998"
   },
   "database": {
     "comment": "Simple JSON database",
