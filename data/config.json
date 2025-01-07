@@ -1,15 +1,15 @@
 {
   "apod": {
     "comment": "http://api.nasa.gov",
-    "KEY": ""
-  },
+    "KEY": "7577803942:AAHqpi77fdjRsuQsTOu04lP3s4Ucjub5gAM"
+  },6
   "mongo": {
     "comment": "MongoDB database. Openshift: OPENSHIFT_MONGODB_DB_URL. Mongolab: e.g 'mongodb://USERNAME:PASSWORD@ds027479.mongolab.com:27479/DATABASE_NAME'",
     "URI": "OPENSHIFT_MONGODB_DB_URL"
   },
   "bot": {
     "token_comment": "Your authorization token from the @botfather. Is string and quoted.",
-    "TOKEN": "7577803942:AAEr8U4aX_VLmOZF-99FOoeJwpOy9xWhZJc",
+    "TOKEN": "7577803942:AAHqpi77fdjRsuQsTOu04lP3s4Ucjub5gAM",
     "id_comment": "Bots ID number. It is numbers before colon in bots token. Is number and not quoted.",
     "ID": -1125471774 ,
     "uname_comment": "Bots username - without @",
@@ -21,7 +21,7 @@
   },
   "sudo": {
     "comment": "Bot owner ID number. Is number and not quoted.",
-    "ID":
+    "ID": -1125471774
   },
   "log": {
     "comment": "The channel, group, or user to send error reports to. Is number and not quoted.",
@@ -29,16 +29,16 @@
   },
   "bing": {
     "comment": "https://www.microsoft.com/cognitive-services/en-us/bing-web-search-api",
-    "KEY": ""
+    "KEY": "7577803942:AAHqpi77fdjRsuQsTOu04lP3s4Ucjub5gAM"
   },
   "oxford": {
     "comment": "https://developer.oxforddictionaries.com",
-    "ID": "",
-    "KEY": ""
+    "ID": "-1125471774",
+    "KEY": "7577803942:AAHqpi77fdjRsuQsTOu04lP3s4Ucjub5gAM"
   },
   "quran": {
     "comment": "http://globalquran.com/contribute/signup.php",
-    "KEY": ""
+    "KEY": "7577803942:AAHqpi77fdjRsuQsTOu04lP3s4Ucjub5gAM"
   },
   "plugins": {
     "admin": [
